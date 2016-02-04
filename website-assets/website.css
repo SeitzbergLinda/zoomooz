@@ -7,7 +7,7 @@ html, body {
     /* was Open Sans, but it was too difficult to read */
     font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size:15px;
-    line-height:24px;
+    line-height:60px;
     font-weight:300;
     color:#000;
 }
